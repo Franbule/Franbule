@@ -1,7 +1,7 @@
 # Hola, mi nombre es Francisco Bueno 👋
 ### Advance Software developer
 
-👨‍🎓 Aspiring software developer | Recent graduate of level 6 in Spain
+👨‍🎓 Aspiring software developer | Recent graduate of level 6 in Ireland
 🌟 Embarking on my university journey to further pursue my passion for software development
 🔍 I've explored various aspects of programming during my education, from fundamentals to more advanced projects.
 💻 Eager to learn and grow in this dynamic field, with a focus on creating impactful projects that address real-world challenges.
