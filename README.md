@@ -8,7 +8,7 @@
 📚 Open to new opportunities and collaborations as I continue my education and exploration in the world of software development.<br>
 🌱 In addition to my studies, I am actively involved in developer communities, attending events, contributing to open-source projects, and sharing knowledge with fellow students.<br>
 
-## Tecnologías:<br>
+## Technologies:<br>
 ### Back-end
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()<br>
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()<br>
