@@ -9,18 +9,21 @@
 🌱 In addition to my studies, I am actively involved in developer communities, attending events, contributing to open-source projects, and sharing knowledge with fellow students.<br>
 
 ## Tecnologías:<br>
-
+### Back-end
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()<br>
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()<br>
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()<br>
 
+### WebSite
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br>
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()<br>
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()<br>
 
+### Others
 [![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)]()<br>
-![CISCO](https://img.shields.io/badge/CISCO-black)
-And some more...
+![CISCO](https://img.shields.io/badge/CISCO-black)<br>
+
+<br>And some more...
 
 
 ## Contacto y apoyo:
