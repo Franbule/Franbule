@@ -19,9 +19,10 @@
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()<br>
 
 [![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)]()<br>
+![CISCO](https://img.shields.io/badge/CISCO-black)
 And some more...
 
 
 ## Contacto y apoyo:
-[![Email]()](mailto:fbuenoleon@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fbuenoleon@gmail.com)
 </br>
