@@ -9,6 +9,25 @@
 🌱 In addition to my studies, I am actively involved in developer communities, attending events, contributing to open-source projects, and sharing knowledge with fellow students.
 
 ## Tecnologías:
+<table>
+<tr>
+<td>
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+</td>
+<td>
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+</td>
+<td>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+</td>
+</tr>
+<tr>
+<td>
+[![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)]()
+</td>
+<td>
+</tr>
+</table>
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -20,7 +39,5 @@ Y alguna más...
 
 
 ## Contacto y apoyo:
-
 [![Email]()](mailto:fbuenoleon@gmail.com)
 </br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
