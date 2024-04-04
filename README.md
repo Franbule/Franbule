@@ -23,7 +23,7 @@
 [![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)]()<br>
 ![CISCO](https://img.shields.io/badge/-CISCO-blue?logo=cisco)<br>
 
-<br>And some more...
+And some more...
 
 
 ## Contacto y apoyo:
